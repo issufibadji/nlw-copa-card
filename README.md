@@ -39,7 +39,7 @@ O projeto figurinha da copa usando HTML e CSS,  foi desenvolvido durante a [NLW]
 
 O projeto está hospedado no Github Pages
 
-> https://explorer-lab-card-three.vercel.app/
+>https://issufibadji.github.io/nlw-copa-card/
 
 ## 🔖 Layout
 
@@ -47,7 +47,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## :memo: Licença
 
-Este projeto esta sobe a licença MIT. Consulte a [LICENÇA](https://github.com/issufibadji/explorerlab-01-card/blob/master/LICENSE) para obter mais informações.
+Este projeto esta sobe a licença MIT. Consulte a [LICENÇA](https://github.com/issufibadji/nlw-copa-card/master/LICENSE) para obter mais informações.
 
 ---
 
