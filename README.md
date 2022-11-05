@@ -1,4 +1,3 @@
-# nlw-copa-card
 <h1 align="center">Figurinha da copa </h1>
 
 <p align="center">
